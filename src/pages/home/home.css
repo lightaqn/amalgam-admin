@@ -1,0 +1,19 @@
+.containerHome {
+  height: 100vh;
+  width: 100vw;
+  margin-top: 5px;
+  display: flex;
+  flex-direction: column;
+}
+.smContainerHome {
+  display: flex;
+}
+.home {
+  flex: 4;
+  background-color: rgb(228, 246, 240);
+}
+
+.homeWidgets {
+  display: flex;
+  margin: 20px;
+}
